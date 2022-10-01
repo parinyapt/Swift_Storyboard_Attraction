@@ -79,6 +79,7 @@
 		AF54ACE728E8B2CA005275D4 /* FiraSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FiraSans-Regular.ttf"; sourceTree = "<group>"; };
 		AF54ACEB28E8B4AA005275D4 /* AttractionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttractionCell.swift; sourceTree = "<group>"; };
 		AF54ACED28E8BCB9005275D4 /* ModalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalViewController.swift; sourceTree = "<group>"; };
+		AF54ACEF28E8C372005275D4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +110,7 @@
 		AF54AC9328E88D87005275D4 = {
 			isa = PBXGroup;
 			children = (
+				AF54ACEF28E8C372005275D4 /* README.md */,
 				AF54ACEA28E8B2D5005275D4 /* fonts */,
 				AF54ACE528E8AE08005275D4 /* images */,
 				AF54AC9E28E88D87005275D4 /* assignment5-attraction-UITableView */,
