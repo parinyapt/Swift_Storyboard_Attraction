@@ -16,6 +16,21 @@
 		AF54ACB728E88D88005275D4 /* assignment5_attraction_UITableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF54ACB628E88D88005275D4 /* assignment5_attraction_UITableViewTests.swift */; };
 		AF54ACC128E88D88005275D4 /* assignment5_attraction_UITableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF54ACC028E88D88005275D4 /* assignment5_attraction_UITableViewUITests.swift */; };
 		AF54ACC328E88D88005275D4 /* assignment5_attraction_UITableViewUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF54ACC228E88D88005275D4 /* assignment5_attraction_UITableViewUITestsLaunchTests.swift */; };
+		AF54ACD028E8AA3D005275D4 /* DataConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF54ACCF28E8AA3D005275D4 /* DataConfig.swift */; };
+		AF54ACDB28E8AE04005275D4 /* The-Grand-Palace.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AF54ACD128E8AE03005275D4 /* The-Grand-Palace.jpeg */; };
+		AF54ACDC28E8AE04005275D4 /* Lumphini-Park.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AF54ACD228E8AE03005275D4 /* Lumphini-Park.jpeg */; };
+		AF54ACDD28E8AE04005275D4 /* Chatuchak-Weekend-Market.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AF54ACD328E8AE03005275D4 /* Chatuchak-Weekend-Market.jpeg */; };
+		AF54ACDE28E8AE04005275D4 /* Wat-Saket.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AF54ACD428E8AE03005275D4 /* Wat-Saket.jpeg */; };
+		AF54ACDF28E8AE04005275D4 /* Wat-Phra-Kaew.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AF54ACD528E8AE03005275D4 /* Wat-Phra-Kaew.jpeg */; };
+		AF54ACE028E8AE04005275D4 /* The-Giant-Swing.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AF54ACD628E8AE03005275D4 /* The-Giant-Swing.jpeg */; };
+		AF54ACE128E8AE04005275D4 /* Wat-Phra-Chetuphon.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AF54ACD728E8AE03005275D4 /* Wat-Phra-Chetuphon.jpeg */; };
+		AF54ACE228E8AE04005275D4 /* Wat-Prayun-Wongsawat-Worawihan.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AF54ACD828E8AE03005275D4 /* Wat-Prayun-Wongsawat-Worawihan.jpeg */; };
+		AF54ACE328E8AE04005275D4 /* Wat-Arun-Ratchawararam-Ratchawaramahawihan.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AF54ACD928E8AE03005275D4 /* Wat-Arun-Ratchawararam-Ratchawaramahawihan.jpeg */; };
+		AF54ACE428E8AE04005275D4 /* Asiatique-The-Riverfront.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = AF54ACDA28E8AE03005275D4 /* Asiatique-The-Riverfront.jpeg */; };
+		AF54ACE828E8B2CA005275D4 /* FiraSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AF54ACE628E8B2CA005275D4 /* FiraSans-Bold.ttf */; };
+		AF54ACE928E8B2CA005275D4 /* FiraSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AF54ACE728E8B2CA005275D4 /* FiraSans-Regular.ttf */; };
+		AF54ACEC28E8B4AA005275D4 /* AttractionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF54ACEB28E8B4AA005275D4 /* AttractionCell.swift */; };
+		AF54ACEE28E8BCB9005275D4 /* ModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF54ACED28E8BCB9005275D4 /* ModalViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +64,21 @@
 		AF54ACBC28E88D88005275D4 /* assignment5-attraction-UITableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "assignment5-attraction-UITableViewUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF54ACC028E88D88005275D4 /* assignment5_attraction_UITableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = assignment5_attraction_UITableViewUITests.swift; sourceTree = "<group>"; };
 		AF54ACC228E88D88005275D4 /* assignment5_attraction_UITableViewUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = assignment5_attraction_UITableViewUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		AF54ACCF28E8AA3D005275D4 /* DataConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataConfig.swift; sourceTree = "<group>"; };
+		AF54ACD128E8AE03005275D4 /* The-Grand-Palace.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "The-Grand-Palace.jpeg"; sourceTree = "<group>"; };
+		AF54ACD228E8AE03005275D4 /* Lumphini-Park.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lumphini-Park.jpeg"; sourceTree = "<group>"; };
+		AF54ACD328E8AE03005275D4 /* Chatuchak-Weekend-Market.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Chatuchak-Weekend-Market.jpeg"; sourceTree = "<group>"; };
+		AF54ACD428E8AE03005275D4 /* Wat-Saket.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Wat-Saket.jpeg"; sourceTree = "<group>"; };
+		AF54ACD528E8AE03005275D4 /* Wat-Phra-Kaew.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Wat-Phra-Kaew.jpeg"; sourceTree = "<group>"; };
+		AF54ACD628E8AE03005275D4 /* The-Giant-Swing.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "The-Giant-Swing.jpeg"; sourceTree = "<group>"; };
+		AF54ACD728E8AE03005275D4 /* Wat-Phra-Chetuphon.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Wat-Phra-Chetuphon.jpeg"; sourceTree = "<group>"; };
+		AF54ACD828E8AE03005275D4 /* Wat-Prayun-Wongsawat-Worawihan.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Wat-Prayun-Wongsawat-Worawihan.jpeg"; sourceTree = "<group>"; };
+		AF54ACD928E8AE03005275D4 /* Wat-Arun-Ratchawararam-Ratchawaramahawihan.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Wat-Arun-Ratchawararam-Ratchawaramahawihan.jpeg"; sourceTree = "<group>"; };
+		AF54ACDA28E8AE03005275D4 /* Asiatique-The-Riverfront.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Asiatique-The-Riverfront.jpeg"; sourceTree = "<group>"; };
+		AF54ACE628E8B2CA005275D4 /* FiraSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FiraSans-Bold.ttf"; sourceTree = "<group>"; };
+		AF54ACE728E8B2CA005275D4 /* FiraSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FiraSans-Regular.ttf"; sourceTree = "<group>"; };
+		AF54ACEB28E8B4AA005275D4 /* AttractionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttractionCell.swift; sourceTree = "<group>"; };
+		AF54ACED28E8BCB9005275D4 /* ModalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +109,8 @@
 		AF54AC9328E88D87005275D4 = {
 			isa = PBXGroup;
 			children = (
+				AF54ACEA28E8B2D5005275D4 /* fonts */,
+				AF54ACE528E8AE08005275D4 /* images */,
 				AF54AC9E28E88D87005275D4 /* assignment5-attraction-UITableView */,
 				AF54ACB528E88D88005275D4 /* assignment5-attraction-UITableViewTests */,
 				AF54ACBF28E88D88005275D4 /* assignment5-attraction-UITableViewUITests */,
@@ -103,9 +135,12 @@
 				AF54ACA128E88D87005275D4 /* SceneDelegate.swift */,
 				AF54ACA328E88D87005275D4 /* ViewController.swift */,
 				AF54ACA528E88D87005275D4 /* Main.storyboard */,
+				AF54ACED28E8BCB9005275D4 /* ModalViewController.swift */,
 				AF54ACA828E88D88005275D4 /* Assets.xcassets */,
 				AF54ACAA28E88D88005275D4 /* LaunchScreen.storyboard */,
 				AF54ACAD28E88D88005275D4 /* Info.plist */,
+				AF54ACCF28E8AA3D005275D4 /* DataConfig.swift */,
+				AF54ACEB28E8B4AA005275D4 /* AttractionCell.swift */,
 			);
 			path = "assignment5-attraction-UITableView";
 			sourceTree = "<group>";
@@ -125,6 +160,32 @@
 				AF54ACC228E88D88005275D4 /* assignment5_attraction_UITableViewUITestsLaunchTests.swift */,
 			);
 			path = "assignment5-attraction-UITableViewUITests";
+			sourceTree = "<group>";
+		};
+		AF54ACE528E8AE08005275D4 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				AF54ACDA28E8AE03005275D4 /* Asiatique-The-Riverfront.jpeg */,
+				AF54ACD328E8AE03005275D4 /* Chatuchak-Weekend-Market.jpeg */,
+				AF54ACD228E8AE03005275D4 /* Lumphini-Park.jpeg */,
+				AF54ACD628E8AE03005275D4 /* The-Giant-Swing.jpeg */,
+				AF54ACD128E8AE03005275D4 /* The-Grand-Palace.jpeg */,
+				AF54ACD928E8AE03005275D4 /* Wat-Arun-Ratchawararam-Ratchawaramahawihan.jpeg */,
+				AF54ACD728E8AE03005275D4 /* Wat-Phra-Chetuphon.jpeg */,
+				AF54ACD528E8AE03005275D4 /* Wat-Phra-Kaew.jpeg */,
+				AF54ACD828E8AE03005275D4 /* Wat-Prayun-Wongsawat-Worawihan.jpeg */,
+				AF54ACD428E8AE03005275D4 /* Wat-Saket.jpeg */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		AF54ACEA28E8B2D5005275D4 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				AF54ACE628E8B2CA005275D4 /* FiraSans-Bold.ttf */,
+				AF54ACE728E8B2CA005275D4 /* FiraSans-Regular.ttf */,
+			);
+			name = fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,9 +292,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF54ACE128E8AE04005275D4 /* Wat-Phra-Chetuphon.jpeg in Resources */,
 				AF54ACAC28E88D88005275D4 /* LaunchScreen.storyboard in Resources */,
+				AF54ACE328E8AE04005275D4 /* Wat-Arun-Ratchawararam-Ratchawaramahawihan.jpeg in Resources */,
+				AF54ACE428E8AE04005275D4 /* Asiatique-The-Riverfront.jpeg in Resources */,
+				AF54ACE828E8B2CA005275D4 /* FiraSans-Bold.ttf in Resources */,
 				AF54ACA928E88D88005275D4 /* Assets.xcassets in Resources */,
+				AF54ACDB28E8AE04005275D4 /* The-Grand-Palace.jpeg in Resources */,
 				AF54ACA728E88D87005275D4 /* Main.storyboard in Resources */,
+				AF54ACDD28E8AE04005275D4 /* Chatuchak-Weekend-Market.jpeg in Resources */,
+				AF54ACDC28E8AE04005275D4 /* Lumphini-Park.jpeg in Resources */,
+				AF54ACDE28E8AE04005275D4 /* Wat-Saket.jpeg in Resources */,
+				AF54ACE928E8B2CA005275D4 /* FiraSans-Regular.ttf in Resources */,
+				AF54ACDF28E8AE04005275D4 /* Wat-Phra-Kaew.jpeg in Resources */,
+				AF54ACE028E8AE04005275D4 /* The-Giant-Swing.jpeg in Resources */,
+				AF54ACE228E8AE04005275D4 /* Wat-Prayun-Wongsawat-Worawihan.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,9 +331,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF54ACEC28E8B4AA005275D4 /* AttractionCell.swift in Sources */,
 				AF54ACA428E88D87005275D4 /* ViewController.swift in Sources */,
 				AF54ACA028E88D87005275D4 /* AppDelegate.swift in Sources */,
 				AF54ACA228E88D87005275D4 /* SceneDelegate.swift in Sources */,
+				AF54ACEE28E8BCB9005275D4 /* ModalViewController.swift in Sources */,
+				AF54ACD028E8AA3D005275D4 /* DataConfig.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
